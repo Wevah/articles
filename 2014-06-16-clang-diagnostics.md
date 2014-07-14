@@ -629,6 +629,11 @@ This week, as a public service, we've compiled a (mostly) comprehensive list of 
 | `-Wweak-template-vtables, DefaultIgnore`	 | "explicit template instantiation %0 will emit a vtable in every translation unit"	 |
 | `-Wweak-vtables, DefaultIgnore`	 | "%0 has no out-of-line virtual method definitions its vtable will be emitted in every translation unit"	 |
 
+###GNU extensions
+
+| `-Wgnu-statement-expression`	 | "use of GNU statement expression extension"	 |
+| `-Wgnu-conditional-omitted-operand`	 | "use of GNU ?: conditional expression extension, omitting middle operand"	 |
+
 * * *
 
 Corrections? Additions? Open a [Pull Request](https://github.com/nshipster/articles/pulls) to submit your change. Any help would be greatly appreciated.
