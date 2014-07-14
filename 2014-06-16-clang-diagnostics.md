@@ -631,6 +631,8 @@ This week, as a public service, we've compiled a (mostly) comprehensive list of 
 
 ### GNU extensions
 
+| Warning Flag | Message |
+|--------------|---------|
 | `-Wgnu-statement-expression`	 | "use of GNU statement expression extension"	 |
 | `-Wgnu-conditional-omitted-operand`	 | "use of GNU ?: conditional expression extension, omitting middle operand"	 |
 
