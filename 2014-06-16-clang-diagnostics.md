@@ -635,6 +635,7 @@ This week, as a public service, we've compiled a (mostly) comprehensive list of 
 |--------------|---------|
 | `-Wgnu-statement-expression`	 | "use of GNU statement expression extension"	 |
 | `-Wgnu-conditional-omitted-operand`	 | "use of GNU ?: conditional expression extension, omitting middle operand"	 |
+| `-Wvariadic-macros`	 | "named variadic macros are a GNU extension"	 |
 
 * * *
 
